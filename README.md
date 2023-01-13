@@ -5,4 +5,6 @@ Uses Bootstrap and Showdown
 
 Save in localstorage
 
-Can be stored to move to other machine 
+Can be stored to move to other machine
+
+Ideal for fast notebook 
