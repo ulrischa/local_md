@@ -1,9 +1,8 @@
 # local_md
-Local Storage Markdown Editor - all in one file
+Local storage Markdown Editor - all in one file - works offline
 
 Uses Bootstrap and Showdown
 
-Stores in localstorage
+Save in localstorage
 
-
-Works offline
+Can be stored to move to other machine 
